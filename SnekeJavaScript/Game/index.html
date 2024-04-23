@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../GameOver/style.css">
+    <link rel="icon" href="../IMG/cobrita.png">
+</head>
+<body>
+    <!-- JOGO -->
+    <div class="everything">
+        <div class=container>
+            <div class="container-box">
+                <span id="scoreST"> SCORE: 0</span>
+                <div class="pixelart"></div>
+                <canvas id="gameCanvas" width="400" height="400"></canvas>
+            </div>
+        </div>
+
+        <!-- GAME OVER -->
+        <div id="containerGO">
+            <div class="everGO">
+                <img src="../IMG/macaST.png" class="maca"/>
+                <div class="gameover"><p>GAME OVER</p></div>
+                <div class="score-box">
+                    <div class="scoreGO">Score: 0</div>
+                    <div class="best-score">Best Score: 0</div>
+                </div>
+                <div class="container-button">
+                    <a href="index.html" class="buttonTA-T">TRY AGAIN</a>
+                    <a href="../index.html" class="buttonTA-E">EXIT</a>
+                </div>
+                <div class="containerImg">
+                    <img src="../IMG/cobrita.png" class="cobra"/>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
