@@ -1,8 +1,8 @@
 # **JOGOS COM INTELIGÊNCIA ARTIFICIAL**
 
-Os jogos publicados foram feitos com inteligência artificial para um trabalho da Feira Tecnologica na __ETEC São Mateus em 2023__.
+Os jogos publicados foram feitos com inteligência artificial, mais especificamente o ChatGPT, para um trabalho da Feira Tecnologica na __ETEC São Mateus em 2023__.
 
-O objetivo dos jogos é mostrar o poder das inteligências artificiais. Ainda que possa parecer simples, mostramos isso através da criação da lógica para fazer jogos (Snake e Jogo da Velha). A lógica por traz do jogo foi feito 100% por inteligência artificial, e o desing pra que ele ficasse bonito visualmente eu mesma fiz, e ficou maravilhoso (dois abraços).
+O objetivo dos jogos é mostrar o poder das inteligências artificiais. Ainda que possa parecer simples, mostramos isso através da criação da lógica para fazer jogos (Snake e Jogo da Velha). A lógica por traz do jogo foi feito 100% por inteligência artificial, e o design pra que ele ficasse bonito visualmente eu mesma fiz.
 
 Para ver e testar os jogos acesse:
 
