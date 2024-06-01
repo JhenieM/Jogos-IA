@@ -9,6 +9,6 @@ Para ver e testar os jogos acesse:
 Snake Game: [https://snakemandraka.netlify.app/](https://snakemandraka.netlify.app/)<br/>
 Jogo da velha: [https://jogodasabedoria.netlify.app/](https://jogodasabedoria.netlify.app/)
 
-(Os jogos foram feitos para serem jogados preferencialmente em computadores e notebooks que tenham acesso ao teclado físico)
+(Os jogos foram feitos para serem jogados preferencialmente aparelhos que tenham acesso ao teclado físico)
 
 A inteligência artificial está rapidamente se consolidando como o futuro da tecnologia, e a expectativa de sua dominação no mercado cresce a cada ano. Este trabalho busca destacar o papel das inteligências artificiais em auxiliar profissionais da área tecnológica, tornando seus processos de trabalho mais eficientes e ágeis. Embora não se deva depender exclusivamente das IAs, é crucial que todos tenham consciência de como utilizá-las de forma adequada, aproveitando seu potencial para aumentar a produtividade.
